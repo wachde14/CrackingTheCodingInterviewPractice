@@ -1,0 +1,8 @@
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4\bin\Debug\Chapter 4.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4\bin\Debug\Chapter 4.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4\obj\Debug\Chapter 4.csprojResolveAssemblyReference.cache
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4\obj\Debug\Chapter 4.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4\obj\Debug\Chapter 4.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4\bin\Debug\nunit.framework.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4\bin\Debug\nunit.framework.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4\bin\Debug\nunit.framework.xml
