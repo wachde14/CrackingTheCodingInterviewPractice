@@ -3,8 +3,6 @@ using Chapter_4.HelperMethods;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Chapter_4
 {
@@ -50,9 +48,20 @@ namespace Chapter_4
         #endregion
 
         #region 4.11
-        public bool Problem_4_11(Node bigTree, Node smallTree)
+        public char Problem_4_11(Node root)
         {
-            return false;
+            return GetRandomNode(root);
+        }
+
+        char GetRandomNode(Node root)
+        {
+            string traversalString = string.Empty;
+            traversalString = Traversals.InOrder(root, traversalString);
+
+            Random rnd = new Random();
+            int randomNumber = rnd.Next(0, traversalString.Length);
+
+            return traversalString[randomNumber];
         }
         #endregion
 
@@ -477,6 +486,5 @@ namespace Chapter_4
             return visited;
         }
         #endregion
-
     }
 }

@@ -1,36 +1,34 @@
 ﻿using Chapter_4.DataStructures;
 using Chapter_4.TestObjects;
 using NUnit.Framework;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Chapter_4
 {
     [TestFixture]
     public class PracticeProblemsTests
     {
-        PracticeProblems practice = new PracticeProblems();
+        readonly PracticeProblems _practice = new PracticeProblems();
 
         [Test]
         public void Question_4_12()
         {
             Node root = TestBinarySearchTrees.WithNegativeEdgeValues();
 
-            int result = practice.Problem_4_12(root, 4);
+            int result = _practice.Problem_4_12(root, 4);
 
             Assert.AreEqual(4, result);
-            //A change
         }
-
 
         [Test]
         public void Question_4_11()
         {
-            PracticeProblems practice = new PracticeProblems();
+            Node root = TestBinarySearchTrees.ValidBinarySearchTree();
 
+            char result = _practice.Problem_4_11(root);
+            double convertedResult = char.GetNumericValue(result);
+
+            Assert.That(convertedResult > 0 && convertedResult < 8);
         }
 
         [Test]
@@ -39,7 +37,7 @@ namespace Chapter_4
             Node bigTree = TestBinarySearchTrees.ValidBinarySearchTree();
             Node smallTree = TestBinarySearchTrees.SubtreeOfValidBinarySearchTree();
 
-            bool result = practice.Problem_4_10(bigTree, smallTree);
+            bool result = _practice.Problem_4_10(bigTree, smallTree);
 
             Assert.AreEqual(true, result);
         }
@@ -48,11 +46,8 @@ namespace Chapter_4
         [Test]
         public void Question_4_9()
         {
-            //PracticeProblems practice = new PracticeProblems();
 
-            //NodeWithParent result = practice.Problem_4_9(node8, node9);
         }
-
 
         [Test]
         public void Question_4_8()
@@ -96,7 +91,7 @@ namespace Chapter_4
             node10.parent = node8;
 
             //Act
-            NodeWithParent result = practice.Problem_4_8(node8, node9);
+            NodeWithParent result = _practice.Problem_4_8(node8, node9);
 
             //Assert
             Assert.AreSame(node6, result);
@@ -124,7 +119,7 @@ namespace Chapter_4
             List<string> expected = new List<string>() { "d", "f", "b", "c", "g", "a", "e" };
 
             //Act
-            List<string> result = practice.Problem_4_7(dependencies, projects);
+            List<string> result = _practice.Problem_4_7(dependencies, projects);
 
             //Assert 
             Assert.AreEqual(expected, result);
@@ -178,17 +173,17 @@ namespace Chapter_4
             node11.parent = node10;
 
             //Act
-            var result1 = practice.Problem_4_6(node1);
-            var result2 = practice.Problem_4_6(node2);
-            var result3 = practice.Problem_4_6(node3);
-            var result4 = practice.Problem_4_6(node4);
-            var result5 = practice.Problem_4_6(node5);
-            var result6 = practice.Problem_4_6(node6);
-            var result7 = practice.Problem_4_6(node7);
-            var result8 = practice.Problem_4_6(node8);
-            var result9 = practice.Problem_4_6(node9);
-            var result10 = practice.Problem_4_6(node10);
-            var result11 = practice.Problem_4_6(node11);
+            var result1 = _practice.Problem_4_6(node1);
+            var result2 = _practice.Problem_4_6(node2);
+            var result3 = _practice.Problem_4_6(node3);
+            var result4 = _practice.Problem_4_6(node4);
+            var result5 = _practice.Problem_4_6(node5);
+            var result6 = _practice.Problem_4_6(node6);
+            var result7 = _practice.Problem_4_6(node7);
+            var result8 = _practice.Problem_4_6(node8);
+            var result9 = _practice.Problem_4_6(node9);
+            var result10 = _practice.Problem_4_6(node10);
+            var result11 = _practice.Problem_4_6(node11);
 
             //Assert
             Assert.AreEqual(node2, result1);
@@ -211,7 +206,7 @@ namespace Chapter_4
         {
             Node root = TestBinarySearchTrees.ValidBinarySearchTree();
 
-            bool result = practice.Problem_4_5(root);
+            bool result = _practice.Problem_4_5(root);
 
             Assert.AreEqual(true, result);
         }
@@ -222,7 +217,7 @@ namespace Chapter_4
         {
             Node root = TestBinarySearchTrees.UnbalancedBinarySearchTree2();
 
-            bool result = practice.Problem_4_4(root);
+            bool result = _practice.Problem_4_4(root);
 
             Assert.AreEqual(false, result);
         }
@@ -232,7 +227,7 @@ namespace Chapter_4
         {
             Node root = TestBinarySearchTrees.ValidBinarySearchTree();
 
-            var result = practice.Problem_4_3(root);
+            var result = _practice.Problem_4_3(root);
 
             Assert.NotNull(result);
         }
@@ -242,7 +237,7 @@ namespace Chapter_4
         {
             int[] minimalTreeArray = new int[] { 1, 2, 3, 5, 6, 7, 9, 64, 555 };
 
-            Node root = practice.Problem_4_2(minimalTreeArray);
+            Node root = _practice.Problem_4_2(minimalTreeArray);
 
             Assert.NotNull(root);
         }
@@ -258,7 +253,7 @@ namespace Chapter_4
                 {0,0,0,0,0,0},
                 {0,0,0,0,0,0}};
 
-            bool result = practice.Problem_4_1(graph, 1, 3);
+            bool result = _practice.Problem_4_1(graph, 1, 3);
 
             Assert.AreEqual(true, result);
 
