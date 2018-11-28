@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 4", "Chapter 4\Chapter 4.csproj", "{DEF52488-C9E3-4BE6-9F1C-C67C42E2B600}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 4 - Trees and Graphs", "Chapter 4\Chapter 4 - Trees and Graphs.csproj", "{DEF52488-C9E3-4BE6-9F1C-C67C42E2B600}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 8 - Recursion and Dynamic Programming", "Chapter 8 - Recursion and Dynamic Programming\Chapter 8 - Recursion and Dynamic Programming.csproj", "{F32B30E1-EB35-4CDC-B832-BA0ED45EEE19}"
 EndProject

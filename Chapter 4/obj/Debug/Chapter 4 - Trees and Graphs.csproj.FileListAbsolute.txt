@@ -1,0 +1,10 @@
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4\bin\Debug\Chapter 4.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4\bin\Debug\Chapter 4.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4\bin\Debug\nunit.framework.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4\bin\Debug\nunit.framework.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4\bin\Debug\nunit.framework.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4\obj\Debug\Chapter 4 - Trees and Graphs.csprojAssemblyReference.cache
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4\obj\Debug\Chapter 4 - Trees and Graphs.csproj.CoreCompileInputs.cache
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4\obj\Debug\Chapter 4 - Trees and Graphs.csproj.CopyComplete
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4\obj\Debug\Chapter 4.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4\obj\Debug\Chapter 4.pdb
