@@ -47,17 +47,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="4_10_CheckSubtree.cs" />
+    <Compile Include="4_11_RandomNode.cs" />
+    <Compile Include="4_12_PathsWithSums.cs" />
+    <Compile Include="4_1_RouteBetweenNodes.cs" />
+    <Compile Include="4_2_MinimalTree.cs" />
+    <Compile Include="4_3_ListOfDepths.cs" />
+    <Compile Include="4_5_ValidateBST.cs" />
+    <Compile Include="4_6_Successor.cs" />
+    <Compile Include="4_7_BuildOrder.cs" />
+    <Compile Include="4_8_FirstCommonAncestor.cs" />
     <Compile Include="DataStructures\NamedDirectedNode.cs" />
     <Compile Include="DataStructures\NamedDirectedNodeManager.cs" />
     <Compile Include="DataStructures\Node.cs" />
     <Compile Include="DataStructures\NodeWithParent.cs" />
     <Compile Include="HelperMethods\Traversals.cs" />
-    <Compile Include="PracticeProblems.cs" />
-    <Compile Include="PracticeProblemsTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestObjects\TestAdjacencyMatrices.cs" />
     <Compile Include="TestObjects\TestBinarySearchTrees.cs" />
     <Compile Include="TestObjects\TestNodeWithParentTrees.cs" />
+    <Compile Include="4_4_CheckBalanced.cs" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
