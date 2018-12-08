@@ -41,3 +41,4 @@ C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4 - Trees and Graphs\bin\Debug\NUnit3.TestAdapter.pdb
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4 - Trees and Graphs\bin\Debug\nunit.engine.dll
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4 - Trees and Graphs\bin\Debug\nunit.engine.api.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4 - Trees and Graphs\obj\Debug\Chapter 4 - Trees and Graphs.csprojResolveAssemblyReference.cache

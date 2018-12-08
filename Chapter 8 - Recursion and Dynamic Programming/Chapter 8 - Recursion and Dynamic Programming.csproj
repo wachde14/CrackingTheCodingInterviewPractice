@@ -49,7 +49,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="8_1_TripleStep.cs" />
+    <Compile Include="8_2_RobotInAGrid.cs" />
+    <Compile Include="8_3_MagicIndex.cs" />
+    <Compile Include="8_5_RecursiveMultiply.cs" />
+    <Compile Include="8_6_TowersOfHanoi.cs" />
+    <Compile Include="8_7_PermutationsWithoutDups.cs" />
+    <Compile Include="DataStructures\HanoiTower.cs" />
+    <Compile Include="DataStructures\HanoiTowerSet.cs" />
+    <Compile Include="DataStructures\Point.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="8_4_PowerSet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

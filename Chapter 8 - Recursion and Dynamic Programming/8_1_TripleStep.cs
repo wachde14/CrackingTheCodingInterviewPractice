@@ -31,16 +31,15 @@ namespace Chapter_8___Recursion_and_Dynamic_Programming
                    + CountSteps(stepsMoved + 3, targetSteps);
 
         }
-
     }
 
     [TestFixture]
-    class TripleStepsTests
+    class _8_1_TripleStepsTests
     {
         readonly _8_1_TripleStep _practice = new _8_1_TripleStep();
 
         [Test]
-        public void _8_1_TripleStep()
+        public void _8_1_TripleStep_Test1()
         {
             int inputSteps = 2;
             int expected = 2;
@@ -49,6 +48,27 @@ namespace Chapter_8___Recursion_and_Dynamic_Programming
 
             Assert.AreEqual(expected, result);
         }
-    }
 
+        [Test]
+        public void _8_1_TripleStep_Test2()
+        {
+            int inputSteps = 3;
+            int expected = 4;
+
+            int result = _practice.Problem_8_1(inputSteps);
+
+            Assert.AreEqual(expected, result);
+        }
+
+        [Test]
+        public void _8_1_TripleStep_Test3()
+        {
+            int inputSteps = 4;
+            int expected = 7;
+
+            int result = _practice.Problem_8_1(inputSteps);
+
+            Assert.AreEqual(expected, result);
+        }
+    }
 }
