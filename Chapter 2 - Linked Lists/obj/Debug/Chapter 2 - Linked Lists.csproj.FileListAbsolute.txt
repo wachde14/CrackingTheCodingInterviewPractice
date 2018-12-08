@@ -5,3 +5,12 @@ C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\nunit.framework.xml
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\obj\Debug\Chapter 2 - Linked Lists.dll
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\obj\Debug\Chapter 2 - Linked Lists.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\Chapter 2 - Linked Lists.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\Chapter 2 - Linked Lists.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\nunit.framework.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\nunit.framework.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\nunit.framework.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\obj\Debug\Chapter 2 - Linked Lists.csproj.CoreCompileInputs.cache
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\obj\Debug\Chapter 2 - Linked Lists.csproj.CopyComplete
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\obj\Debug\Chapter 2 - Linked Lists.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\obj\Debug\Chapter 2 - Linked Lists.pdb

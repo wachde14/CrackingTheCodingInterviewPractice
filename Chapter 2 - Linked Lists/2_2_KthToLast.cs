@@ -10,9 +10,26 @@ namespace Chapter_2___Linked_Lists
     /// </summary>
     public class _2_2_KthToLast
     {
-        public int KthToLastIterative(Node root, int k)
+        public Node KthToLastIterative(Node head, int k)
         {
-            return 0;
+            Node ptr1 = head;
+            Node ptr2 = head;
+
+            for (int i = 0; i < k; i++)
+            {
+                if (ptr1 == null)
+                    return null;
+
+                ptr1 = ptr1.Next;
+            }
+
+            while (ptr1.Next != null)
+            {
+                ptr1 = ptr1.Next;
+                ptr2 = ptr2.Next;
+            }
+
+            return ptr2;
         }
     }
 
@@ -23,12 +40,56 @@ namespace Chapter_2___Linked_Lists
         [Test]
         public void _2_2_KthToLastIterative_Test1()
         {
-            Node expected = TestLinkedLists._12345();
+            int expected = 2;
 
-            Node inputList = TestLinkedLists._1234555();
-            int actual = _practice.KthToLastIterative(inputList, 2);
+            Node inputList = TestLinkedLists._123();
+            Node actual = _practice.KthToLastIterative(inputList, 1);
 
-            Assert.AreEqual(true, true);
+            Assert.AreEqual(expected, actual.Data);
+        }
+
+        [Test]
+        public void _2_2_KthToLastIterative_Test2()
+        {
+            int expected = 1;
+
+            Node inputList = TestLinkedLists._123();
+            Node actual = _practice.KthToLastIterative(inputList, 2);
+
+            Assert.AreEqual(expected, actual.Data);
+        }
+
+        [Test]
+        public void _2_2_KthToLastIterative_Test3()
+        {
+            int expected = 3;
+
+            Node inputList = TestLinkedLists._123();
+            Node actual = _practice.KthToLastIterative(inputList, 0);
+
+            Assert.AreEqual(expected, actual.Data);
+        }
+
+        [Test]
+        public void _2_2_KthToLastIterative_Test4()
+        {
+            int expected = 4;
+
+            Node inputList = TestLinkedLists._12345();
+            Node actual = _practice.KthToLastIterative(inputList, 1);
+
+            Assert.AreEqual(expected, actual.Data);
+        }
+
+        [Test]
+        public void _2_2_KthToLastIterative_Test5()
+        {
+            int expected = 1;
+
+            Node inputList = TestLinkedLists._12345();
+            Node actual = _practice.KthToLastIterative(inputList, 4);
+
+            Assert.AreEqual(expected, actual.Data);
         }
     }
 }
