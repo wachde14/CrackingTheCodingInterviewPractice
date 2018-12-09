@@ -14,4 +14,8 @@ C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\obj\Debug\Chapter 2 - Linked Lists.csproj.CopyComplete
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\obj\Debug\Chapter 2 - Linked Lists.dll
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\obj\Debug\Chapter 2 - Linked Lists.pdb
-C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\obj\Debug\Chapter 2 - Linked Lists.csprojResolveAssemblyReference.cache
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\FluentAssertions.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\System.ValueTuple.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\FluentAssertions.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\FluentAssertions.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 2 - Linked Lists\bin\Debug\System.ValueTuple.xml

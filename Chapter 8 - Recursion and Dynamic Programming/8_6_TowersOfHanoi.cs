@@ -21,7 +21,7 @@ namespace Chapter_8___Recursion_and_Dynamic_Programming
         [TestCase(4)]
         [TestCase(6)]
         [TestCase(10)]
-        public void _8_6_TowersOfHanoi_Test1(int amountOfDiscs)
+        public void _8_6_TowersOfHanoi_TestCases(int amountOfDiscs)
         {
             HanoiTowerSet towerSet = new HanoiTowerSet(amountOfDiscs);
 

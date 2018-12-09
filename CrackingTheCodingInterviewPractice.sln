@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 8 - Recursion and D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter 2 - Linked Lists", "Chapter 2 - Linked Lists\Chapter 2 - Linked Lists.csproj", "{142F23CE-EC4B-4CF3-AD92-FA66848AA510}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{37652A8C-56E1-425B-AA89-FFD1463296F3}"
+	ProjectSection(SolutionItems) = preProject
+		GeneralNotes.txt = GeneralNotes.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

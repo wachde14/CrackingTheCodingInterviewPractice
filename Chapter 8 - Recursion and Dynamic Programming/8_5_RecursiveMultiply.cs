@@ -70,7 +70,7 @@ namespace Chapter_8___Recursion_and_Dynamic_Programming
         [TestCase(4, 6, 24)]
         [TestCase(15, 15, 225)]
         [TestCase(0, 5, 0)]
-        public void _8_5_RecursiveMultiplyBasic_Test1(int a, int b, int expected)
+        public void _8_5_RecursiveMultiplyBasic_TestCases(int a, int b, int expected)
         {
             int result = _practice.RecursiveMultiplyBasic(a, b, 0);
 
@@ -81,7 +81,7 @@ namespace Chapter_8___Recursion_and_Dynamic_Programming
         [TestCase(4, 6, 24)]
         [TestCase(15, 15, 225)]
         [TestCase(0, 5, 0)]
-        public void _8_5_RecursiveMultiplyBetter_Test1(int a, int b, int expected)
+        public void _8_5_RecursiveMultiplyBetter_TestCases(int a, int b, int expected)
         {
             int result = _practice.RecursiveMultiplyBetter(a, b);
 

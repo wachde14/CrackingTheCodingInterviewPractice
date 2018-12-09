@@ -65,7 +65,7 @@ namespace Chapter_8___Recursion_and_Dynamic_Programming
         [TestCase("ABC", 6)]
         [TestCase("ABCD", 24)]
         [TestCase("ABCDE", 120)]
-        public void _8_7_PermutationsWithoutDups_Tests(string input, int expectedTotal)
+        public void _8_7_PermutationsWithoutDups_TestCases(string input, int expectedTotal)
         {
             List<string> result = _practice.GetPermutation(input);
 

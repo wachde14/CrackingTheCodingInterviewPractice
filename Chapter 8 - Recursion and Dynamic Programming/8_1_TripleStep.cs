@@ -38,34 +38,11 @@ namespace Chapter_8___Recursion_and_Dynamic_Programming
     {
         readonly _8_1_TripleStep _practice = new _8_1_TripleStep();
 
-        [Test]
-        public void _8_1_TripleStep_Test1()
+        [TestCase(2, 2)]
+        [TestCase(3, 4)]
+        [TestCase(4, 7)]
+        public void _8_1_TripleStep_TestCases(int inputSteps, int expected)
         {
-            int inputSteps = 2;
-            int expected = 2;
-
-            int result = _practice.Problem_8_1(inputSteps);
-
-            Assert.AreEqual(expected, result);
-        }
-
-        [Test]
-        public void _8_1_TripleStep_Test2()
-        {
-            int inputSteps = 3;
-            int expected = 4;
-
-            int result = _practice.Problem_8_1(inputSteps);
-
-            Assert.AreEqual(expected, result);
-        }
-
-        [Test]
-        public void _8_1_TripleStep_Test3()
-        {
-            int inputSteps = 4;
-            int expected = 7;
-
             int result = _practice.Problem_8_1(inputSteps);
 
             Assert.AreEqual(expected, result);

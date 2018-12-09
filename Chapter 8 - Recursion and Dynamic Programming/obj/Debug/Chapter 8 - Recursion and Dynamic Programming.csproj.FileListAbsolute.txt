@@ -22,5 +22,9 @@ C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\nunit.framework.xml
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\obj\Debug\Chapter 8 - Recursion and Dynamic Programming.dll
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\obj\Debug\Chapter 8 - Recursion and Dynamic Programming.pdb
-C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\obj\Debug\Chapter 8 - Recursion and Dynamic Programming.csprojResolveAssemblyReference.cache
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\obj\Debug\Chapter 8 - Recursion and Dynamic Programming.csprojAssemblyReference.cache
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\FluentAssertions.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\System.ValueTuple.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\FluentAssertions.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\FluentAssertions.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\System.ValueTuple.xml
