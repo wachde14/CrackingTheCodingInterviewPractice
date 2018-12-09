@@ -23,3 +23,4 @@ C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\obj\Debug\Chapter 8 - Recursion and Dynamic Programming.dll
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\obj\Debug\Chapter 8 - Recursion and Dynamic Programming.pdb
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\obj\Debug\Chapter 8 - Recursion and Dynamic Programming.csprojResolveAssemblyReference.cache
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\obj\Debug\Chapter 8 - Recursion and Dynamic Programming.csprojAssemblyReference.cache
