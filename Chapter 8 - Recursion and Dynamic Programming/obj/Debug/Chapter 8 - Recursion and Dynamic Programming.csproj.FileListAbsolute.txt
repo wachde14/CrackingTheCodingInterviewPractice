@@ -28,3 +28,8 @@ C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\FluentAssertions.pdb
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\FluentAssertions.xml
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\System.ValueTuple.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\FluentAssertions.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\System.ValueTuple.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\FluentAssertions.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\FluentAssertions.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\System.ValueTuple.xml

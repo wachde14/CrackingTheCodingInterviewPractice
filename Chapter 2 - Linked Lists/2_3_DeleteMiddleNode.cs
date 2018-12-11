@@ -1,4 +1,5 @@
 ﻿using Chapter_2___Linked_Lists.DataStructures;
+using FluentAssertions;
 using NUnit.Framework;
 
 namespace Chapter_2___Linked_Lists
@@ -13,9 +14,17 @@ namespace Chapter_2___Linked_Lists
     /// </summary>
     public class _2_3_DeleteMiddleNode
     {
-        public bool DeleteMiddleNode(Node node)
+        public void DeleteMiddleNode(ref Node middleNode)
         {
-            return false;
+            if (middleNode == null || middleNode.Next == null)
+            {
+                return;
+            }
+
+            Node next = middleNode.Next;
+
+            middleNode.Data = next.Data;
+            middleNode.Next = next.Next;
         }
     }
 
@@ -24,15 +33,17 @@ namespace Chapter_2___Linked_Lists
         readonly _2_3_DeleteMiddleNode _practice = new _2_3_DeleteMiddleNode();
 
         [Test]
-        public void _2_3_DeleteMiddleNode_Test1()
+        public void _2_3_DeleteMiddleNode_With123LinkedList_ShouldDeleteMiddleNode()
         {
-            int expected = 2;
+            Node node1 = new Node(1);
+            Node node2 = new Node(2);
+            Node node3 = new Node(3);
+            node1.Next = node2;
+            node2.Next = node3;
 
-            bool actual = _practice.DeleteMiddleNode(new Node(3));
+            _practice.DeleteMiddleNode(ref node2);
 
-            //Assert.AreEqual(expected, actual.Data);
+            node3.Should().BeEquivalentTo(node1.Next);
         }
-
     }
-
 }
