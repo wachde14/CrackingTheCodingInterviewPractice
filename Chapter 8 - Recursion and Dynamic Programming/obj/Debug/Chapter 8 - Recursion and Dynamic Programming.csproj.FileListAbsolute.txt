@@ -33,3 +33,4 @@ C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\FluentAssertions.pdb
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\FluentAssertions.xml
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\bin\Debug\System.ValueTuple.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 8 - Recursion and Dynamic Programming\obj\Debug\Chapter 8 - Recursion and Dynamic Programming.csprojResolveAssemblyReference.cache

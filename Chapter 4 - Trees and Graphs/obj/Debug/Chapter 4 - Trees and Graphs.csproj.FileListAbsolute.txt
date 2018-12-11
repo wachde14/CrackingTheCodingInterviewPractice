@@ -51,3 +51,4 @@ C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4 - Trees and Gra
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4 - Trees and Graphs\bin\Debug\FluentAssertions.xml
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4 - Trees and Graphs\bin\Debug\System.ValueTuple.xml
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 4 - Trees and Graphs\obj\Debug\Chapter 4 - Trees and Graphs.csprojAssemblyReference.cache
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 4 - Trees and Graphs\obj\Debug\Chapter 4 - Trees and Graphs.csprojResolveAssemblyReference.cache

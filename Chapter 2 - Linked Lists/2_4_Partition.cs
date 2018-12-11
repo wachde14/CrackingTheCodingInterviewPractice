@@ -1,4 +1,6 @@
 ﻿using Chapter_2___Linked_Lists.DataStructures;
+using Chapter_2___Linked_Lists.TestObjects;
+using FluentAssertions;
 using NUnit.Framework;
 
 namespace Chapter_2___Linked_Lists
@@ -14,30 +16,89 @@ namespace Chapter_2___Linked_Lists
     /// </summary>
     class _2_4_Partition
     {
-        public void Partition(Node node, int x)
+        public Node Partition(Node head, int x)
         {
+            Node list1Head = null;
+            Node list1Ptr = null;
+            Node list2Head = null;
+            Node list2Ptr = null;
 
+            while (head != null)
+            {
+                Node headCopy = new Node(head.Data);
+
+                if (head.Data < x)
+                {
+                    if (list1Head == null)
+                    {
+                        list1Head = headCopy;
+                        list1Ptr = list1Head;
+                    }
+                    else
+                    {
+                        list1Ptr.Next = headCopy;
+                        list1Ptr = list1Ptr.Next;
+                    }
+                }
+                else
+                {
+                    if (list2Head == null)
+                    {
+                        list2Head = headCopy;
+                        list2Ptr = list2Head;
+                    }
+                    else
+                    {
+                        list2Ptr.Next = headCopy;
+                        list2Ptr = list2Ptr.Next;
+                    }
+                }
+
+                head = head.Next;
+            }
+
+            if (list1Head == null)
+                return list2Head;
+
+            list1Ptr.Next = list2Head;
+
+            return list1Head;
         }
-
-    }
+    } 
 
     public class _2_4_PartitionTests
     {
         readonly _2_4_Partition _practice = new _2_4_Partition();
 
         [Test]
-        public void _2_4_DeleteMiddleNode_With123LinkedList_ShouldDeleteMiddleNode()
+        public void _2_4_Partition_With3_5_8_5_10_2LinkedList_ShouldCreatePartitioned()
         {
-            //Node node1 = new Node(1);
-            //Node node2 = new Node(2);
-            //Node node3 = new Node(3);
-            //node1.Next = node2;
-            //node2.Next = node3;
+            Node testList = TestLinkedLists._3_5_8_5_10_2();
+            Node expected = TestLinkedLists._3_2_1_5_8_5_10();
 
-            //_practice.DeleteMiddleNode(ref node2);
+            Node partitionedList = _practice.Partition(testList, 5);
 
-            //node3.Should().BeEquivalentTo(node1.Next);
+            partitionedList.Should().BeEquivalentTo(expected);
+        }
+
+        [Test]
+        public void _2_4_Partition_With1LinkedList_ShouldCreatePartitioned()
+        {
+            Node testList = new Node(1);
+
+            Node partitionedList = _practice.Partition(testList, 5);
+
+            testList.Should().BeEquivalentTo(partitionedList);
+        }
+
+        [Test]
+        public void _2_4_Partition_With9LinkedList_ShouldCreatePartitioned()
+        {
+            Node testList = new Node(9);
+
+            Node partitionedList = _practice.Partition(testList, 5);
+
+            testList.Should().BeEquivalentTo(partitionedList);
         }
     }
-
 }

@@ -59,6 +59,7 @@
     <Compile Include="2_2_KthToLast.cs" />
     <Compile Include="2_3_DeleteMiddleNode.cs" />
     <Compile Include="2_4_Partition.cs" />
+    <Compile Include="2_5_SumLists.cs" />
     <Compile Include="DataStructures\LinkedList.cs" />
     <Compile Include="DataStructures\Node.cs" />
     <Compile Include="HelperMethods\LinkedListUtilityMethods.cs" />

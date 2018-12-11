@@ -77,7 +77,44 @@ namespace Chapter_2___Linked_Lists.TestObjects
             return node1;
         }
 
+        public static Node _3_5_8_5_10_2()
+        {
+            Node node3 = new Node(3);
+            Node node5 = new Node(5);
+            Node node8 = new Node(8);
+            Node node5a = new Node(5);
+            Node node10 = new Node(10);
+            Node node2 = new Node(2);
+            Node node1 = new Node(1);
 
+            node3.Next = node5;
+            node5.Next = node8;
+            node8.Next = node5a;
+            node5a.Next = node10;
+            node10.Next = node2;
+            node2.Next = node1;
 
+            return node3;
+        }
+
+        public static Node _3_2_1_5_8_5_10()
+        {
+            Node node3 = new Node(3);
+            Node node5 = new Node(5);
+            Node node8 = new Node(8);
+            Node node5a = new Node(5);
+            Node node10 = new Node(10);
+            Node node2 = new Node(2);
+            Node node1 = new Node(1);
+
+            node3.Next = node2;
+            node2.Next = node1;
+            node1.Next = node5a;
+            node5a.Next = node8;
+            node8.Next = node5;
+            node5.Next = node10;
+
+            return node3;
+        }
     }
 }
