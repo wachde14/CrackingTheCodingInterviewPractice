@@ -51,6 +51,19 @@ namespace Chapter_2___Linked_Lists.TestObjects
 
             return node1;
         }
+
+        public static Node _121()
+        {
+            Node node1 = new Node(1);
+            Node node2 = new Node(2);
+            Node node1a = new Node(1);
+
+            node1.Next = node2;
+            node2.Next = node1a;
+
+            return node1;
+        }
+
         public static Node _11122233()
         {
             Node node1 = new Node(1);
