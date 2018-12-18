@@ -6,11 +6,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{142F23CE-EC4B-4CF3-AD92-FA66848AA510}</ProjectGuid>
+    <ProjectGuid>{D47B0394-F4C2-4AB4-8EC5-DC740B0CB79D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Chapter_2___Linked_Lists</RootNamespace>
-    <AssemblyName>Chapter 2 - Linked Lists</AssemblyName>
+    <RootNamespace>Chapter_1___Arrays_and_Strings</RootNamespace>
+    <AssemblyName>Chapter 1 - Arrays and Strings</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>
@@ -56,19 +56,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2_1_RemoveDups.cs" />
-    <Compile Include="2_2_KthToLast.cs" />
-    <Compile Include="2_3_DeleteMiddleNode.cs" />
-    <Compile Include="2_4_Partition.cs" />
-    <Compile Include="2_5_SumLists.cs" />
-    <Compile Include="2_6_Palindrome.cs" />
-    <Compile Include="2_7_Intersection.cs" />
-    <Compile Include="2_8_LoopDetection.cs" />
-    <Compile Include="DataStructures\LinkedList.cs" />
-    <Compile Include="DataStructures\Node.cs" />
-    <Compile Include="HelperMethods\LinkedListUtilityMethods.cs" />
+    <Compile Include="1_1_IsUnique.cs" />
+    <Compile Include="1_2_CheckPermutation.cs" />
+    <Compile Include="1_3_URLify.cs" />
+    <Compile Include="1_4_PalindromePermutation.cs" />
+    <Compile Include="1_5_OneAway.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestObjects\TestLinkedLists.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

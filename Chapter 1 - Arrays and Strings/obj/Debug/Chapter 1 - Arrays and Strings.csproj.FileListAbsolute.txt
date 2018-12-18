@@ -1,0 +1,17 @@
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\Chapter 1 - Arrays and Strings.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\Chapter 1 - Arrays and Strings.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\nunit.framework.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\nunit.framework.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\nunit.framework.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\obj\Debug\Chapter 1 - Arrays and Strings.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\obj\Debug\Chapter 1 - Arrays and Strings.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\NUnit3.TestAdapter.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\NUnit3.TestAdapter.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\nunit.engine.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\nunit.engine.api.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\FluentAssertions.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\System.ValueTuple.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\FluentAssertions.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\FluentAssertions.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\System.ValueTuple.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\obj\Debug\Chapter 1 - Arrays and Strings.csprojResolveAssemblyReference.cache
