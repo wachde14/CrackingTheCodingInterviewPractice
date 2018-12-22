@@ -61,6 +61,7 @@
     <Compile Include="1_3_URLify.cs" />
     <Compile Include="1_4_PalindromePermutation.cs" />
     <Compile Include="1_5_OneAway.cs" />
+    <Compile Include="1_6_StringCompression.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
