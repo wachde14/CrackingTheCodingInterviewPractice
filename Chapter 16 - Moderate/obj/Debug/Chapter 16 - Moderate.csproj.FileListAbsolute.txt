@@ -1,0 +1,9 @@
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\Chapter 16 - Moderate.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\Chapter 16 - Moderate.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\nunit.framework.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\nunit.framework.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\nunit.framework.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\obj\Debug\Chapter 16 - Moderate.csproj.CoreCompileInputs.cache
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\obj\Debug\Chapter 16 - Moderate.csproj.CopyComplete
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\obj\Debug\Chapter 16 - Moderate.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\obj\Debug\Chapter 16 - Moderate.pdb
