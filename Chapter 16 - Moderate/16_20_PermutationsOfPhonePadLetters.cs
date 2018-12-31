@@ -61,7 +61,7 @@ namespace Chapter_16___Moderate
     {
         readonly _16_20_PermutationsOfPhonePadLetters _practice = new _16_20_PermutationsOfPhonePadLetters();
 
-        [TestCase("234", 4)]
+        [TestCase("234", 27)]
         public void _16_20_PermutationsOfPhonePadLetters_WithTestCases_ShouldReturnExpected(string phoneNumber, int expected)
         {
             List<string> results = new List<string>();

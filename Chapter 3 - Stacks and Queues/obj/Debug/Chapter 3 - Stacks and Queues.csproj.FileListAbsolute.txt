@@ -1,0 +1,12 @@
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\Chapter 3 - Stacks and Queues.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\Chapter 3 - Stacks and Queues.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\FluentAssertions.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\nunit.framework.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\System.ValueTuple.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\FluentAssertions.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\FluentAssertions.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\nunit.framework.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\nunit.framework.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\System.ValueTuple.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.pdb

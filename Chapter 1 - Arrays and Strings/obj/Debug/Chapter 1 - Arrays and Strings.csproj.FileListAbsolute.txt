@@ -14,7 +14,6 @@ C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\FluentAssertions.pdb
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\FluentAssertions.xml
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\System.ValueTuple.xml
-C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\obj\Debug\Chapter 1 - Arrays and Strings.csprojResolveAssemblyReference.cache
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\NUnit3.TestAdapter.dll
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\NUnit3.TestAdapter.pdb
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\bin\Debug\nunit.engine.dll
