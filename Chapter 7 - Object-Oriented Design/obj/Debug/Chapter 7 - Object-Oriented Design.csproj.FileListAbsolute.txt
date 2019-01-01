@@ -1,0 +1,15 @@
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\Chapter 7 - Object-Oriented Design.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\Chapter 7 - Object-Oriented Design.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\nunit.framework.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\nunit.framework.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\nunit.framework.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\obj\Debug\Chapter 7 - Object-Oriented Design.csprojAssemblyReference.cache
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\obj\Debug\Chapter 7 - Object-Oriented Design.csproj.CoreCompileInputs.cache
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\obj\Debug\Chapter 7 - Object-Oriented Design.csproj.CopyComplete
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\obj\Debug\Chapter 7 - Object-Oriented Design.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\obj\Debug\Chapter 7 - Object-Oriented Design.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\FluentAssertions.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\System.ValueTuple.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\FluentAssertions.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\FluentAssertions.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\System.ValueTuple.xml
