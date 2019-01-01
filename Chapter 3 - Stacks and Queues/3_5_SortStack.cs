@@ -1,5 +1,4 @@
 ﻿using NUnit.Framework;
-using System.Collections;
 using System.Collections.Generic;
 
 namespace Chapter_3___Stacks_and_Queues
@@ -17,33 +16,65 @@ namespace Chapter_3___Stacks_and_Queues
 
             while (initialStack.Count > 0)
             {
-                bufferStack.Push(initialStack.Pop());
+                int temp = initialStack.Pop();
+                while (bufferStack.Count > 0 && bufferStack.Peek() > temp)
+                {
+                    initialStack.Push(bufferStack.Pop());
+                }
+                bufferStack.Push(temp);
             }
 
             while (bufferStack.Count > 0)
             {
-                //int currInsertNumber = bufferStack.Pop();
-
-                //if (initialStack.Count == 0)
-                //    initialStack.Push(currInsertNumber);
-
-                //int amountToPutBack = 0;
-                //while (currInsertNumber < initialStack.Peek())
-                //{
-                //    bufferStack.Push();
-                //}
-
-
-
+                initialStack.Push(bufferStack.Pop());
             }
         }
     }
 
     public class _3_5_SortStackTests
     {
+        _3_5_SortStack _practice = new _3_5_SortStack();
+
         [Test]
-        public void _3_5_SortStack_WithValidEnqueues_ShouldDequeueSuccessfully()
+        public void _3_5_SortStack_WithValidUniquePushes_ShouldSortSuccessfully()
         {
+            Stack<int> testStack = new Stack<int>();
+            testStack.Push(2);
+            testStack.Push(3);
+            testStack.Push(1);
+            testStack.Push(9);
+            testStack.Push(0);
+            testStack.Push(6);
+
+            _practice.SortStack(testStack);
+
+            Assert.AreEqual(0, testStack.Pop());
+            Assert.AreEqual(1, testStack.Pop());
+            Assert.AreEqual(2, testStack.Pop());
+            Assert.AreEqual(3, testStack.Pop());
+            Assert.AreEqual(6, testStack.Pop());
+            Assert.AreEqual(9, testStack.Pop());
+        }
+
+        [Test]
+        public void _3_5_SortStack_WithValidDuplicatePushes_ShouldSortSuccessfully()
+        {
+            Stack<int> testStack = new Stack<int>();
+            testStack.Push(1);
+            testStack.Push(1);
+            testStack.Push(1);
+            testStack.Push(9);
+            testStack.Push(0);
+            testStack.Push(6);
+
+            _practice.SortStack(testStack);
+
+            Assert.AreEqual(0, testStack.Pop());
+            Assert.AreEqual(1, testStack.Pop());
+            Assert.AreEqual(1, testStack.Pop());
+            Assert.AreEqual(1, testStack.Pop());
+            Assert.AreEqual(6, testStack.Pop());
+            Assert.AreEqual(9, testStack.Pop());
         }
     }
 }

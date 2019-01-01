@@ -10,3 +10,18 @@ C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\System.ValueTuple.xml
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.dll
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\Chapter 3 - Stacks and Queues.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\Chapter 3 - Stacks and Queues.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\FluentAssertions.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\nunit.framework.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\System.ValueTuple.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\FluentAssertions.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\FluentAssertions.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\nunit.framework.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\nunit.framework.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\bin\Debug\System.ValueTuple.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.csproj.CoreCompileInputs.cache
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.csproj.CopyComplete
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.csprojAssemblyReference.cache

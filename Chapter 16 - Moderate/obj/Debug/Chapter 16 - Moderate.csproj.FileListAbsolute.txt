@@ -19,3 +19,9 @@ C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\System.ValueTuple.xml
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\obj\Debug\Chapter 16 - Moderate.dll
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\obj\Debug\Chapter 16 - Moderate.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\FluentAssertions.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\System.ValueTuple.dll
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\FluentAssertions.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\FluentAssertions.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\System.ValueTuple.xml
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\obj\Debug\Chapter 16 - Moderate.csprojAssemblyReference.cache

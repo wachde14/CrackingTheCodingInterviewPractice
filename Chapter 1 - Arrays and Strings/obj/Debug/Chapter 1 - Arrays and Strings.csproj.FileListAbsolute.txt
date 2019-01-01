@@ -32,3 +32,4 @@ C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and St
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\obj\Debug\Chapter 1 - Arrays and Strings.csproj.CopyComplete
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\obj\Debug\Chapter 1 - Arrays and Strings.dll
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\obj\Debug\Chapter 1 - Arrays and Strings.pdb
+C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 1 - Arrays and Strings\obj\Debug\Chapter 1 - Arrays and Strings.csprojAssemblyReference.cache
