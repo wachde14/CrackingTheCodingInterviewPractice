@@ -13,3 +13,15 @@ C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Orient
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\FluentAssertions.pdb
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\FluentAssertions.xml
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\System.ValueTuple.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\Chapter 7 - Object-Oriented Design.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\Chapter 7 - Object-Oriented Design.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\FluentAssertions.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\nunit.framework.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\System.ValueTuple.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\FluentAssertions.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\FluentAssertions.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\nunit.framework.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\nunit.framework.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\System.ValueTuple.xml
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\obj\Debug\Chapter 7 - Object-Oriented Design.dll
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\obj\Debug\Chapter 7 - Object-Oriented Design.pdb
