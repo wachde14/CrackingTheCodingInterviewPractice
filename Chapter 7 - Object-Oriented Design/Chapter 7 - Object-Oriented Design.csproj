@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="7_1_DeckOfCards.cs" />
     <Compile Include="7_2_CallCenter.cs" />
+    <Compile Include="7_3_Jukebox.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

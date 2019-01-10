@@ -25,3 +25,4 @@ C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Qu
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.dll
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.pdb
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.csprojAssemblyReference.cache
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 3 - Stacks and Queues\obj\Debug\Chapter 3 - Stacks and Queues.csprojResolveAssemblyReference.cache

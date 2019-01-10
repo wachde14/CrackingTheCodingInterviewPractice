@@ -25,3 +25,4 @@ C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\bin\Debug\System.ValueTuple.xml
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\obj\Debug\Chapter 7 - Object-Oriented Design.dll
 C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\obj\Debug\Chapter 7 - Object-Oriented Design.pdb
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 7 - Object-Oriented Design\obj\Debug\Chapter 7 - Object-Oriented Design.csprojResolveAssemblyReference.cache
