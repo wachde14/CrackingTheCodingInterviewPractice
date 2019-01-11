@@ -13,6 +13,8 @@ namespace Chapter_7___Object_Oriented_Design
 
         public Jukebox(List<Song> songList)
         {
+            _playlist = new Queue<Song>();
+
             foreach (Song song in songList)
             {
                 _playlist.Enqueue(song);
@@ -48,6 +50,11 @@ namespace Chapter_7___Object_Oriented_Design
             _playlist.Dequeue();
             Start();
         }
+
+        public int SongsRemaining()
+        {
+            return _playlist.Count;
+        }
     }
 
     class Song
@@ -82,10 +89,32 @@ namespace Chapter_7___Object_Oriented_Design
         [Test]
         public void _7_3_Jukebox_WithSongRequests_ShouldPlaySongsSuccessfully()
         {
+            //Arrange
             Artist eminem = new Artist("Eminem", Genre.Rap);
             Song eminemSong = new Song("No Love","Recovery", eminem);
 
+            Artist mj = new Artist("Michael Jackson", Genre.Pop);
+            Song mjSong = new Song("Thriller", "Thriller", mj);
+            Song mjSong2 = new Song("Billie Jean", "Thriller", mj);
 
+            Artist metallica = new Artist("Metallica", Genre.Rock);
+            Song metallicaSong = new Song("Fade to Black", "Ride the Lightning", mj);
+
+            List<Song> songList = new List<Song>();
+            songList.Add(eminemSong);
+            songList.Add(mjSong);
+            songList.Add(mjSong2);
+            songList.Add(metallicaSong);
+
+            Jukebox testJukebox = new Jukebox(songList);
+
+            Assert.AreEqual(4, testJukebox.SongsRemaining());
+
+            //Act
+            testJukebox.Start();
+
+            //Assert 
+            Assert.AreEqual(0, testJukebox.SongsRemaining()); 
         }
     }
 }
