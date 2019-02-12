@@ -57,6 +57,7 @@
     <Compile Include="7_2_CallCenter.cs" />
     <Compile Include="7_3_Jukebox.cs" />
     <Compile Include="7_4_ParkingLot.cs" />
+    <Compile Include="7_5_OnlineBookReader.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

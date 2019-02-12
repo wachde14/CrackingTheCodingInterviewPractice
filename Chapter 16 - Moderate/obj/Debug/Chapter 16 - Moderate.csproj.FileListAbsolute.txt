@@ -25,3 +25,4 @@ C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\FluentAssertions.xml
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\bin\Debug\System.ValueTuple.xml
 C:\CrackingPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\obj\Debug\Chapter 16 - Moderate.csprojAssemblyReference.cache
+C:\CrackingTheCodingInterviewPractice\CrackingTheCodingInterviewPractice\Chapter 16 - Moderate\obj\Debug\Chapter 16 - Moderate.csprojResolveAssemblyReference.cache
